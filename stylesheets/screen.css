@@ -140,7 +140,7 @@ header {
   position: relative;
   z-index: 2;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 1000px;
   top: 38px;
 }
 
@@ -211,7 +211,7 @@ div#no-downloads span.inner {
   display: block;
   position: relative;
   height: 197px;
-  width: 550px;
+  width: 750px;
   background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
 }
 
